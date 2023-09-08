@@ -90,3 +90,12 @@
 .o_card ul li i{}
 /* online card end */
 /* online end */
+/* footer start */
+footer{
+    background: #282531;
+    color: #FFF;
+}
+footer ul{
+    font-size: 16px;
+}
+/* footer end */
